@@ -1,4 +1,9 @@
-.body{
-  background-image: url();
-  background-color: grey;
+body{
+  background-image: url(/home/lorddoyo/Documents/trial-and-error/images/background.jpg);
+}
+img {
+  max-height: 70px;
+  max-width: 100px;
+  width: 60px;
+  height:60px;
 }
