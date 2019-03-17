@@ -32,16 +32,25 @@ h4{
   text-align: center;
 }
 img {
-  max-height: 1264px;
+  max-height: 864px;
   max-width: 448px;
   display: block;
  margin-left: auto;
  margin-right: auto;
  width: 40%;
- float: none;
+
+transform:          rotate(90deg);
+-ms-transform:      rotate(90deg);
+-moz-transform:     rotate(90deg);
+-webkit-transform:  rotate(90deg);
+-o-transform:       rotate(90deg);
+
+
+}
 
 
 }
 .paragraph{
+  text-align: center;
   text-align: center;
 }
