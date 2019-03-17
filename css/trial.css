@@ -1,9 +1,47 @@
 body{
-  background-image: url(/home/lorddoyo/Documents/trial-and-error/images/background.jpg);
+  background-image: url(/home/lorddoyo/Documents/trial-and-error/images/back.JPG);
+  background-color: grey;
+  background-repeat: no-repeat;
+  text-align: justify;
+}
+h1{
+  text-align:center;
+  font-style: italic;
+  font-family: sans-serif;
+  text-decoration-color: : 943825;
+
+}
+h2{
+  text-align: center;
+}
+
+.life{
+  text-align: center;
+
+}
+h3{
+  text-align: center;
+}
+.skill{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+.program{
+  text-align: center;
 }
 img {
-  max-height: 70px;
-  max-width: 100px;
-  width: 60px;
-  height:60px;
+  max-height: 1264px;
+  max-width: 448px;
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ width: 40%;
+ float: none;
+
+
+}
+.paragraph{
+  text-align: center;
 }
