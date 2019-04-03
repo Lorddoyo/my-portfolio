@@ -1,16 +1,16 @@
-# {Application Name}
-#### {this is just a mediocre website}, {Date of current version}
-#### By **{Lorddoyo}**
+# My First Website
+#### First Time For Everything , {march 2019}
+#### By _Lorddoyo_
 ## Description
-{This a my first ever website done by me .It maybe mediocre and not as that beautiful but for a first timer to make this is in a week is amazing}
+This a my first ever website done by me .It maybe mediocre and not as that beautiful but for a first timer to make this is in a week is amazing
 
 
 ## Technologies Used
-{i have used HTML and CSS to make my simple website}
+i have used HTML and CSS to make my simple website
 ## Support and contact details
-{in case of any problem or if you want to expound on my code email me at johnkojo7777@gmail.com}
+in case of any problem or if you want to expound on my code email me at(johnkojo7777@gmail.com)
 ### License
-*{The MIT License (MIT)}*
+*The MIT License (MIT)*
 Copyright (c).NET Foundation and Contributors
 All rights reserved.
 
@@ -30,4 +30,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. {2019} *{lorddoyo}**
+SOFTWARE. {2019} **lorddoyo**
