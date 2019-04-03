@@ -4,11 +4,15 @@
 ## Description
 This a my first ever website done by me .It maybe mediocre and not as that beautiful but for a first timer to make this is in a week is amazing
 
+# Setup
+* [To access the live website, click here](https://lorddoyo.github.io/Triangle-Tracker)
 
 ## Technologies Used
 i have used HTML and CSS to make my simple website
+
 ## Support and contact details
 in case of any problem or if you want to expound on my code email me at(johnkojo7777@gmail.com)
+
 ### License
 *The MIT License (MIT)*
 Copyright (c).NET Foundation and Contributors
